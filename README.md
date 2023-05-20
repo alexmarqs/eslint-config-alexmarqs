@@ -1,5 +1,9 @@
 # Personal ESLint config
 
+https://www.npmjs.com/package/@alexmarqs/eslint-config
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 - [x] Standard config base;
 - [x] TypeScript support;
 - [x] Prettier support;
