@@ -24,6 +24,4 @@ npm i -D eslint @alexmarqs/eslint-config
 
 ## Technical notes about this package
 
-The package `standard-with-typescript` can be used and then the usage of `@typescript-eslint/parser` is not needed.
-
-To test the package locally I suggest the usage of `yalc`. If you have it installed, run `yalc publish` and then `yalc add @alexmarqs/eslint-config` in the project you want to test it.
+To test the package locally I suggest the usage of `yalc`. If you have it installed, run `yalc publish` and then `yalc add @alexmarqs/eslint-config` in the project you want to test it. As an alternative, you can use `npm link` to link the package locally.
