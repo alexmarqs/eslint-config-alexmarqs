@@ -4,9 +4,6 @@
   "private": false,
   "description": "Personal shareable eslint configs",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Alexandre Marques",
   "publishConfig": {
     "access": "public"

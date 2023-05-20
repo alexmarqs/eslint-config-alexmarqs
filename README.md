@@ -21,7 +21,3 @@ npm i -D eslint @alexmarqs/eslint-config
   "extends": "@alexmarqs/eslint-config/node"
 }
 ```
-
-## Technical notes about this package
-
-To test the package locally I suggest the usage of `yalc`. If you have it installed, run `yalc publish` and then `yalc add @alexmarqs/eslint-config` in the project you want to test it. As an alternative, you can use `npm link` to link the package locally.
