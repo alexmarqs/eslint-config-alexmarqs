@@ -25,3 +25,7 @@ npm i -D eslint @alexmarqs/eslint-config
   "extends": "@alexmarqs/eslint-config/node"
 }
 ```
+
+## License
+
+MIT License © [alexmarqs](https://github.com/alexmarqs)

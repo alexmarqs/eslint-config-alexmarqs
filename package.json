@@ -1,6 +1,6 @@
 {
   "name": "@alexmarqs/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Personal shareable eslint configs",
   "main": "index.js",
@@ -8,6 +8,12 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": [
+    "eslint-config",
+    "eslint",
+    "typescript",
+    "prettier"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
