@@ -8,7 +8,7 @@ https://www.npmjs.com/package/@alexmarqs/eslint-config
 - [x] TypeScript support;
 - [x] Prettier support;
 - [x] Node Eslint configuration;
-- [ ] React Eslint configuration;
+- [x] React Eslint configuration;
 
 ## Setup
 
@@ -20,9 +20,19 @@ npm i -D eslint @alexmarqs/eslint-config
 
 2. Create a `.eslintrc.json` (you can also use the config `.js`) file extending the config:
 
+Node:
+
 ```
 {
   "extends": "@alexmarqs/eslint-config/node"
+}
+```
+
+React:
+
+```
+{
+  "extends": "@alexmarqs/eslint-config/react"
 }
 ```
 
